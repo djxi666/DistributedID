@@ -2,7 +2,7 @@
 基于SnowFlake算法生成分布式ID
 
 ## 简介
-https://segmentfault.com/img/bVVulC?w=1021&h=346
+https://image-static.segmentfault.com/350/263/350263808-59c2254083397_articlex
 
 ### 1位，不用。二进制中最高位为1的都是负数，但是我们生成的id一般都使用整数，所以这个最高位固定是0
 
